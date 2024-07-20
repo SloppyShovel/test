@@ -1,6 +1,1 @@
-[0.3.9]
-- New Version
-[0.3.8]
-- Current Version
-[0.3.7]
-- Start Version
+{"version":"0.3.9", "changelog":"Changelog here"}
